@@ -1,1 +1,1 @@
-print(’Hello C’) 
+﻿print(’Hello C’) or print(’Hello c’), depending on what you like better.
